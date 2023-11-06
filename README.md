@@ -18,7 +18,7 @@ targets: [
         name: "App",
         dependencies: [
             // Other dependencies...
-            .product(name: "AsyncCommandRegister", package: "vapor-async-command-register"),
+            .product(name: "AsyncCommandRegister", package: "swift-vapor-async-command-register"),
         ]),
     // Test targets...
 ]
